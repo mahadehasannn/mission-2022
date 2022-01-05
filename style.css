@@ -1,0 +1,24 @@
+
+body p {font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+.widht-of-top-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%; 
+font-size: 30px;
+}
+.widht-of-top-section p{font-size: 20px;}
+    .widht-of-top-section img{ 
+
+        width: 70%;
+    }
+    
+
+
