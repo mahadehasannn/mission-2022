@@ -6,9 +6,7 @@ padding-bottom: 200px;
 }
 
 
-body p {font-family: 'Oswald', sans-serif;
-    font-family: 'Playfair Display', serif;
-    font-family: 'Poppins', sans-serif;
+body p {font-family: 'Poppins', sans-serif;
 
 }
 
@@ -26,7 +24,7 @@ font-size: 30px;
 .widht-of-top-section p{font-size: 20px;}
     .widht-of-top-section img{ 
 
-        width: 70%;
+        width: 600px;
         padding-right: 0%;
         float: right;
     }
@@ -164,4 +162,9 @@ footer h1{font-family: 'Lobster', cursive;
 #year{color: red;
 
 }
-footer div{ padding-top: 15px;}
+footer div{ padding-top: 20px;
+margin-top: 200px;}
+
+
+
+#global-font-change{font-family: 'Poppins', sans-serif;}
