@@ -73,3 +73,7 @@ font-size: 16px;
 .Passion img{
     width: 200px;
 }
+
+.My-mission-section{
+    display: flex;
+}
