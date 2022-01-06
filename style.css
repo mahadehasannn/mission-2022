@@ -149,8 +149,19 @@ footer{
     color: white;
     height: 220px;
     width: 100%;
-    text-align: center;
-    font-weight: bold ;
-    background-color: black;
+  
+    background-color:#0B0D17;
 
 }
+
+
+
+
+footer h1{font-family: 'Lobster', cursive;
+
+}
+
+#year{color: red;
+
+}
+footer div{ padding-top: 15px;}
