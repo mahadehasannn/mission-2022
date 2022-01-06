@@ -117,8 +117,12 @@ font-size: 30px;
     padding-right: 0%;
     float: left;
 }
+.widht-of-develop-without-limit-section p{font-size: 20px;
+    font-family: 'Poppins', sans-serif;
 
-.widht-of-develop-without-limit-section p .widht-of-top-section p{font-size: 20px;
+}
+
+.widht-of-top-section p{font-size: 20px;
     font-family: 'Poppins', sans-serif;
 }
 
