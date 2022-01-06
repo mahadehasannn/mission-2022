@@ -1,4 +1,10 @@
 
+section{
+height: 600px;padding-bottom: 210px;
+
+}
+
+
 body p {font-family: 'Oswald', sans-serif;
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
@@ -13,12 +19,57 @@ body p {font-family: 'Oswald', sans-serif;
     margin-left: 5%;
     padding-left: 2%; 
 font-size: 30px;
+
+
 }
 .widht-of-top-section p{font-size: 20px;}
     .widht-of-top-section img{ 
 
         width: 70%;
+        padding-right: 0%;
+        float: right;
     }
+ 
+
+.border-color{border-left: 4px solid #FF5959;}
+
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: white;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+font-size: 16px;
+}
+
+
+
+.mission-2022-heading{
+    text-align: center;
+}
+
+.my-mission-2022{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.my-mission-2022 span{
+    color: #FFAD5A;
+}
+
+
+.Mission img{width: 200px;
+
+}
+
+
+.Future img{width: 200px;
     
+}
 
-
+.Passion img{
+    width: 200px;
+}
