@@ -61,13 +61,27 @@ font-size: 16px;
 }
 
 
+.Mission{ 
+    background-color:#EDF5F6;
+    
+
+}
+
 .Mission img{width: 200px;
 
 }
 
+.Future{
 
+    background-color: #FFEEEE;
+}
 .Future img{width: 200px;
     
+}
+
+.Passion{
+
+    background-color: #FFF4D6;
 }
 
 .Passion img{
@@ -76,4 +90,16 @@ font-size: 16px;
 
 .My-mission-section{
     display: flex;
+}
+.My-mission-section div {
+    height: 80%;
+    border-radius: 15px;
+
+padding-left: 10px;
+margin-left: 50px;
+
+
+
+}
+.border-line{border: 3px solid;
 }
