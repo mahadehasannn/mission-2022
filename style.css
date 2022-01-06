@@ -106,16 +106,25 @@ margin-left: 50px;
 
 
 .widht-of-develop-without-limit-section{ width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%; 
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%; 
 font-size: 30px;
 
 }
 .widht-of-develop-without-limit-section img{
-    width: 70%;
+    width: 60%;
     padding-right: 0%;
-    float: right;
+    float: left;
 }
 
-.widht-of-develop-without-limit-section p .widht-of-top-section p{font-size: 20px;}
+.widht-of-develop-without-limit-section p .widht-of-top-section p{font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#develop{
+    font-size: 60px;
+}
+
+
